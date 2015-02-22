@@ -21,9 +21,9 @@ jquery@1.11.3
 json@1.0.2
 launch-screen@1.0.1
 livedata@1.0.12
-local-test:maxharris9:template-instance-utils@1.0.3
+local-test:maxharris9:template-instance-utils@1.0.4
 logging@1.0.6
-maxharris9:template-instance-utils@1.0.3
+maxharris9:template-instance-utils@1.0.4
 meteor@1.1.4
 meteor-platform@1.2.1
 minifiers@1.1.3
