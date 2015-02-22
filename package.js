@@ -1,8 +1,8 @@
 Package.describe({
   name: 'maxharris9:template-instance-utils',
   summary: "Wraps Tracker and Template.instance()",
-  version: "1.0.3",
-  git: "https://github.com/maxharris9/maxharris9-template-instance-utils.git",
+  version: "1.0.4",
+  git: "https://github.com/max-leportlabs/maxharris9-template-instance-utils.git",
   documentation: null
 });
 
